@@ -8,11 +8,11 @@
 
 - 📫 You can reach out to me at **srimoulipsn3003@gmail.com**
 
-- 📄 Explore my experiences and skills in detail [https://drive.google.com/file/d/1-PaPNgWvnl00zHNH-HKset1pNt_bdz1K/view?usp=drivesdk](https://drive.google.com/file/d/1-PaPNgWvnl00zHNH-HKset1pNt_bdz1K/view?usp=drivesdk)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pasalapudi satya naga sri mouli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasalapudi satya naga sri mouli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mouli-pasalapudi-69791a207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasalapudi satya naga sri mouli" height="30" width="40" /></a>
 <a href="https://instagram.com/__sreemouli__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sreemouli__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sreemou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sreemou" height="30" width="40" /></a>
 </p>
