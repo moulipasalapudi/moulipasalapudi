@@ -2,9 +2,9 @@
 <h3 align="center">Embarking on a Journey Through the DevOps Galaxy</h3>
 <img align="right" width=400 src="https://w7.pngwing.com/pngs/671/630/png-transparent-cartoon-devops-information-technology-software-deployment-others-comics-cloud-computing-cartoon.png">
 
-- 🌱 Currently I am delving into the **Devops stack**
 
-- 👯 I’m looking to collaborate on **realms of DevOps and data science**
+
+- 👯 I’m looking to collaborate on **Web Development,DevOps**
 
 - 📫 You can reach out to me at **srimoulipsn3003@gmail.com**
 
